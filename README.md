@@ -2,5 +2,7 @@
 i
 # README
 
-hello git!
+hello git
+
+第一次练习 GIT Bash
 
